@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Project11_2</string>
+    <string name="poster_title1">1987</string>
+    <string name="poster_title2">신과함께</string>
+    <string name="poster_title3">부산행</string>
+    <string name="poster_title4">뷰티인사이드</string>
+    <string name="poster_title5">블랙위도우</string>
+    <string name="poster_title6">Call me by your name</string>
+    <string name="poster_title7">극한직업</string>
+    <string name="poster_title8">인생은 아름다워</string>
+    <string name="poster_title9">토이스토리</string>
+    <string name="poster_title10">라라랜드</string>
 </resources>
